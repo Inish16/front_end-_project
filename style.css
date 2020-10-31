@@ -1,0 +1,247 @@
+/*eta body er margin r padding ke 0 kore dei, eta korte hoy karon default bhabe kichu margin r padding thake */
+*
+{
+	margin:0;
+	padding: 0;
+}
+.ribbon
+{
+	background-color: #13287d;
+	color: #fff;
+}
+.ribbon p
+{
+	margin-bottom: 0px;
+}
+.banner
+{
+	background: url('images/banner.jpg');
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-repeat: none;
+}
+.title
+{
+	font-weight: 700;
+	font-size: 3em;
+	color:#fff;
+	top: 28%;
+	position: absolute;
+}
+.sub-title
+{
+	color: #fff;
+	font-size: 1em;
+	top: 52%;
+	position: absolute;
+}
+.banner-button
+{
+	padding: 12px 30px 12px 30px;
+	border-radius: 26px;
+	background-color:#fff;
+	text-decoration: none;
+	color: #fd8733;
+	font-weight: 700;
+	top: 59%;
+	position: absolute;
+}
+.about-company
+{
+	color: #fd8733;
+	font-weight: 700;
+	font-size: 1.2em;
+}
+.about-us-header
+{
+	color: #13287d;
+	font-weight: 900;
+    font-size: 2.5em;
+}
+.about-us-content
+{
+	color: #8d9095;
+}
+.orange
+{
+	color: #fd8733;
+}
+.happy-client
+{
+	font-weight: 800;
+}
+.about-us-btn
+{
+	background-color: #fd8733;
+    border-radius: 500px;
+    padding: 15px 30px 15px 30px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.nav-item
+{
+	color: #000000;
+	text-decoration: none;
+}
+.hover:hover
+{
+	background-color: #276db4;
+	color: #fff;
+	cursor: pointer;
+}
+.about-service
+{
+	color: #fd8733;
+	font-weight: 700;
+	font-size: 1em;
+}
+.important
+{
+	color: #13287d;
+	font-weight: 700;
+	font-size: 3em;
+}
+.hover-text
+{
+	font-weight: 800;
+	text-align: center;
+	font-size: 2em;
+}
+
+.hover-img
+{
+	align-items: center;
+}
+.hover-text-two
+{
+	text-align: center;
+	font-size: 1em;
+	font-weight: 600;
+}
+.important-text
+{
+	color: #13287d;
+	text-align: center;
+	font-weight: 800;
+	font-size: 2em;
+}
+.text-deco
+{
+	text-align: center;
+	color: #83868c;
+	font-size: 1em;
+}
+.important-banner
+{
+	text-align: center;
+	color: #fd8733;
+	font-size: 1em;
+	font-weight: 700;
+}
+.why-choose-us
+{
+	color: #13287d;
+	font-weight: 800;
+    font-size: 2.3em;
+}
+.why-choose-banner
+{
+	color: #fd8733;
+	font-weight: 800;
+}
+.read-more-btn
+{
+	background-color: #fd8733;
+    border-radius: 500px;
+    padding: 15px 30px 15px 30px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.footer
+{
+	color: #fd8733;
+	font-size: 1.1em;
+	font-weight: 700;
+}
+.content
+{
+	font-weight: 700;
+	font-size: 3em;
+	color:#fff;
+	
+	
+}
+.sub-content
+{
+	color: #fff;
+	font-size: 1em;
+	
+	
+}
+.tempor-content
+{
+	background: url('images/content.jpg');
+
+	height: 100vh;
+	width: 99.5%;
+	background-size: cover;
+	background-repeat: none;
+}
+.why-choose-details
+{
+	color: #13287d;
+	font-size: 1em;
+	font-weight: 700;
+}
+.why-choose-details:hover
+{
+	color: #fff;
+	background-color: #276db4;
+}
+.card-body
+{
+	color: #83868c;
+	font-size: 1em;
+	font-weight: 500;
+}
+.asked-question
+{
+	color: #fd8733;
+	font-size: 1em;
+	font-weight: 700;
+}
+.asked-banner
+{
+	color: #13287d;
+	font-size: 1.7em;
+    font-weight: 900;
+}
+.asked
+{
+	color: #13287d;
+	font-size: 1.2em;
+	margin-bottom: 0;
+}
+.ask
+{
+	box-shadow: 10 30px 80px #fff;
+}
+.plus
+{
+	color: #fd8733;
+	font-size: 1.5em;
+}
+.vision
+{
+	font-size: 24px;
+}
+.collapse-thin
+{
+	margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
